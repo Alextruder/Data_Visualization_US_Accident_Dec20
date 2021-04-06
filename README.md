@@ -6,7 +6,7 @@ This project is using a csv file called "US_Accidents_Dec20.csv".
 ## Dashboard using dash and plotly on Jupyter Notebook
 1) Import the dataset and put it in the same file than the .ipynb file.
 2) Don't forget to remove comments ("#") for the first case to be sure to install every libraries we will need to import for the visualization.
-3) I created a lot of functions to have a dash code more understandable. I use only one dash so you can execute the whole program and click on the link create when app.run_server() is called.
+3) I created a lot of functions to have a dash code more understandable. I use only one dash so you can execute the whole program and click on the link create when app.run_server() is called to access to the localhost and visualize our dashboard.
 
 ## Dashboard using Tableau
 
